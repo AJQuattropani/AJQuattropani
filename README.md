@@ -47,11 +47,6 @@ Hey, I'm AJ. I am an undergraduate physicist and aspiring programmer at The Univ
 
   - he/him, they/them
 
-  ## Email:
-
-  - Personal: aidanjq@comcast.net
-  - University: ajenningsquattrop99@unm.edu
-
   ## Fun Facts:
 
   - I have been programming since I was in the 2nd grade.
