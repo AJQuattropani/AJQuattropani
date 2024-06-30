@@ -1,7 +1,5 @@
 # AJ Quattropani
 
-<img src="https://api.tinyfox.dev/hourly/yotes/photo_61@14-12-2021_22-56-39.jpg" alt="Grumpy Coyote" style="width:640px;">
-
 ## About Me
 Hey, I'm AJ. I am an undergraduate physicist and aspiring programmer at The University of New Mexico. On this profile, I document my experiences in programming. I am interested in low-level programming applications for simulating physical systems. I also enjoy creating mods for Minecraft. I plan to upload more of new and previous work here!
 
