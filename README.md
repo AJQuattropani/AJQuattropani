@@ -17,13 +17,6 @@ Hey, I'm AJ. I am an undergraduate physicist and aspiring programmer at The Univ
 <details>
 <summary>I’m currently working on ...</summary>
   
-  ## Current Projects:
-  
-  - **uploading and revising previous coding projects as I get more used to GitHub.**
-  - homework for my computational physics class.
-  - a library where I can apply information I learned from my Combinatorics class in C++.
-  - practicing/studying to recieve certification for C++ Programming.
-  
 </details>
 
 <details>
@@ -33,7 +26,8 @@ Hey, I'm AJ. I am an undergraduate physicist and aspiring programmer at The Univ
   
   - Basics of writing C++ for performance.
   - Development with Python.
-  - How to use Linux.
+  - CMake
+  - Linux development.
   
 </details>
 
