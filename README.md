@@ -10,12 +10,13 @@ Hey, I'm AJ. I am an undergraduate physicist and aspiring programmer at The Univ
 |-----:|-----------|
 |     1| C++       |
 |     2| Python    |
-|     3| Java      |
+|     3| C         |
 
 </details>
 
 <details>
 <summary>I’m currently working on ...</summary>
+  Aurora Scientific Calculator (In Dev)
   
 </details>
 
@@ -24,10 +25,11 @@ Hey, I'm AJ. I am an undergraduate physicist and aspiring programmer at The Univ
   
   ## Learning:
   
-  - Basics of writing C++ for performance.
-  - Development with Python.
+  - Memory safety and management in C
+  - Designing data structures
   - CMake
-  - Linux development.
+  - Performing tests
+  - Linux development
   
 </details>
 
