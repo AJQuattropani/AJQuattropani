@@ -9,8 +9,8 @@ Hey, I'm AJ. I am an undergraduate physicist and aspiring programmer at The Univ
 | Rank | Languages |
 |-----:|-----------|
 |     1| C++       |
-|     2| Python    |
-|     3| C         |
+|     2| C         |
+|     3| Python    |
 
 </details>
 
