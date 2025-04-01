@@ -1,7 +1,7 @@
 # AJ Quattropani
 
 ## About Me
-Hey, I'm AJ. I am an undergraduate physicist and aspiring programmer at The University of New Mexico. On this profile, I document my experiences in programming. I am interested in low-level programming applications for simulating physical systems. I also enjoy creating mods for Minecraft. I plan to upload more of new and previous work here!
+Hey, I'm AJ. I am an undergraduate applied mathematician and aspiring programmer at The University of New Mexico. On this profile, I document my experiences in programming. I am interested in low-level programming applications for simulating physical systems. I also enjoy creating mods for Minecraft. I plan to upload more of new and previous work here!
 
 <details>
 <summary>My preferred programming languages:</summary>
