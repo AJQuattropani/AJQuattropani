@@ -1,7 +1,7 @@
 # AJ Quattropani
 
 ## About Me
-Hey, I'm AJ. I am an undergraduate applied mathematician and aspiring programmer at The University of New Mexico. On this profile, I document my experiences in programming. I am interested in low-level programming applications for simulating physical systems. I also enjoy creating mods for Minecraft. I plan to upload more of new and previous work here!
+Hey, I'm AJ. I am an undergraduate applied mathematician and aspiring programmer at The University of New Mexico.
 
 <details>
 <summary>My preferred programming languages:</summary>
@@ -39,13 +39,7 @@ Hey, I'm AJ. I am an undergraduate applied mathematician and aspiring programmer
   
   ## Pronouns:
 
-  - he/him, they/them
-
-  ## Fun Facts:
-
-  - I have been programming since I was in the 2nd grade.
-  - My favorite video game is Minecraft.
-  - My favorite animals are coyotes and raccoons.
+  - he/him, they/
   
 </details>
 
