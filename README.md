@@ -39,7 +39,7 @@ Hey, I'm AJ. I am an undergraduate applied mathematician and aspiring programmer
   
   ## Pronouns:
 
-  - he/him, they/
+  - he/him
   
 </details>
 
