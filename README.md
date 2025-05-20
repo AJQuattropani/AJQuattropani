@@ -1,15 +1,15 @@
 # AJ Quattropani
 
 ## About Me
-Hey, I'm AJ. I am an undergraduate applied mathematician and aspiring programmer at The University of New Mexico.
+Hey, I'm AJ. I am an undergraduate applied mathematician at The University of New Mexico.
 
 <details>
 <summary>My preferred programming languages:</summary>
   
 | Rank | Languages |
 |-----:|-----------|
-|     1| C++       |
-|     2| C         |
+|     1| C         |
+|     2| C++       |
 |     3| Python    |
 
 </details>
@@ -25,10 +25,8 @@ Hey, I'm AJ. I am an undergraduate applied mathematician and aspiring programmer
   
   ## Learning:
   
-  - Memory safety and management in C
-  - Designing data structures
+  - ncurses
   - CMake
-  - Performing tests
   - Linux development
   
 </details>
