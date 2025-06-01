@@ -1,7 +1,7 @@
 # AJ Quattropani
 
 ## About Me
-Hey, I'm AJ. I am an undergraduate applied mathematician at The University of New Mexico.
+Hey, I'm AJ. I am an undergraduate applied mathematician at The University of New Mexico who programs for the love of it.
 
 <details>
 <summary>My preferred programming languages:</summary>
@@ -16,9 +16,9 @@ Hey, I'm AJ. I am an undergraduate applied mathematician at The University of Ne
 
 <details>
 <summary>I’m currently working on ...</summary>
-  Embedded Environment for STM32MP (Early dev)
-  NCurses Library (In Dev, supplement to Aurora Scientific Calculator)
-  Aurora Synbolic Differential Calculator (Pre Release)
+  - NCurses Library (In Dev, supplement to Aurora Scientific Calculator)
+  - Aurora Symbolic Script (Pre Release)
+  - Embedded Environment for STM32MC (Early dev)
   
 </details>
 
@@ -30,15 +30,14 @@ Hey, I'm AJ. I am an undergraduate applied mathematician at The University of Ne
   - ncurses
   - CMake
   - Linux development
+  - Embedded Networks via The Yocto Project
   
 </details>
-
 
 <details>
 <summary>More about me ...</summary>
   
   ## Pronouns:
-
   - he/him
   
 </detail>
