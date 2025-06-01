@@ -16,6 +16,7 @@ Hey, I'm AJ. I am an undergraduate applied mathematician at The University of Ne
 
 <details>
 <summary>I’m currently working on ...</summary>
+  
   - NCurses Library (In Dev, supplement to Aurora Scientific Calculator)
   - Aurora Symbolic Script (Pre Release)
   - Embedded Environment for STM32MC (Early dev)
