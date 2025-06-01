@@ -16,7 +16,9 @@ Hey, I'm AJ. I am an undergraduate applied mathematician at The University of Ne
 
 <details>
 <summary>I’m currently working on ...</summary>
-  Aurora Scientific Calculator (In Dev)
+  Embedded Environment for STM32MP (Early dev)
+  NCurses Library (In Dev, supplement to Aurora Scientific Calculator)
+  Aurora Synbolic Differential Calculator (Pre Release)
   
 </details>
 
@@ -39,19 +41,4 @@ Hey, I'm AJ. I am an undergraduate applied mathematician at The University of Ne
 
   - he/him
   
-</details>
-
-<!--
-**AJQuattropani/AJQuattropani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</detail>
